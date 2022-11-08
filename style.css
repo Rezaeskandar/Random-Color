@@ -1,0 +1,30 @@
+html {
+    background: radial-gradient(rgb(0, 0, 0), rgb(173, 170, 166));
+    color: white;
+    padding-top: 50px;
+    text-align: center;
+}
+
+#main {
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#wrapper {
+    margin: 0 auto;
+    height: 12em;
+    width: 10em;
+}
+
+#cirlcle {
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+#note {
+    margin-top: 2em;
+}
